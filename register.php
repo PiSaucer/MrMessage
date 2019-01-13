@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
 </head>
 <body>
-<form action="/account_created.php">
+<form action="/account_resgister.php">
     <h1>Mr Message - Register</h1>
     <p>Please fill in this form to create an account.</p>
     

@@ -28,10 +28,10 @@ $_GET["user"]
 <h3>what you like to do?</h3>
 <br>
 
-<a href="index.html">Logout of Mr Message</a>
+<a href="index.php">Logout of Mr Message</a>
 <br>
 <br>
-<a href="chat.html">Chat</a>
+<a href="chat.php">Chat</a>
 <br>
 <br>
 <a href="https://chromesettings.herokuapp.com" target="_Blank">Check out PiSaucer's Chrome Settings</a>
