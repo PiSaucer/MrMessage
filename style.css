@@ -1,0 +1,57 @@
+h1 {
+  text-align: center;
+}
+
+body {
+	font-family: roboto;
+	word-spacing: 2px;
+}
+
+
+.nav_btn {
+  margin: 0 auto;
+  display:block;
+  text-align: center;
+  word-spacing: 2px;
+}
+
+.account_login {
+  margin: 0 auto;
+  display:block;
+  text-align: center;
+  word-spacing: 2px;
+}
+
+.register_info {
+  margin: 0 auto;
+  display:block;
+  text-align: center;
+  word-spacing: 2px;
+}
+
+.error {
+	color: red;
+}
+
+
+.friend_selector {
+  margin: 0 auto;
+  display:block;
+  text-align: center;
+  word-spacing: 2px;
+}
+
+.chat_message_box {
+  margin: 0 auto;
+  display:block;
+  text-align: center;
+  word-spacing: 2px;
+}
+
+footer {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
