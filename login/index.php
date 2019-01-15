@@ -22,8 +22,7 @@ class SimpleLoginSystem {
     // constructor
     function SimpleLoginSystem() {
         $this->aExistedMembers = array(
-            'User1' => 'd8578edf8458ce06fbc5bb76a58c5ca4',  //Sample: MD5('qwerty')
-            'User2' => 'd8578edf8458ce06fbc5bb76a58c5ca4'
+            'Admin' => '5F4DCC3B5AA765D61D8327DEB882CF99',  //Sample: MD5('password')
         );
     }
 
