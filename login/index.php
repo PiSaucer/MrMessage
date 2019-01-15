@@ -11,7 +11,7 @@ else
 $oSimpleLoginSystem = new SimpleLoginSystem();
 
 echo $oSimpleLoginSystem->getLoginBox();
-require_once('');
+require_once('footer.php');
 
 // class SimpleLoginSystem
 class SimpleLoginSystem {
@@ -22,7 +22,8 @@ class SimpleLoginSystem {
     // constructor
     function SimpleLoginSystem() {
         $this->aExistedMembers = array(
-            'Admin' => '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8',  //Sample: MD5('password')
+            'User1' => 'd8578edf8458ce06fbc5bb76a58c5ca4',  //Sample: MD5('qwerty')
+            'User2' => 'd8578edf8458ce06fbc5bb76a58c5ca4'
         );
     }
 
