@@ -11,7 +11,7 @@ else
 $oSimpleLoginSystem = new SimpleLoginSystem();
 
 echo $oSimpleLoginSystem->getLoginBox();
-require_once('footer.php');
+require_once('');
 
 // class SimpleLoginSystem
 class SimpleLoginSystem {
